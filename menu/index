@@ -1,8 +1,9 @@
 {
   "menu":[
-    {"texto":"Dashboard","acao":"dashboard"},
-    {"texto":"Sensores","acao":"sensores"},
-    {"texto":"Reles","acao":"reles"},
+    {"texto":"Capturar","acao":"capturar"},
+    {"texto":"Batalhar","acao":"batalhar"},
+    {"texto":"Centro de Treinamento","acao":"CT"},
+    {"texto":"Interagir","acao":"reles"},
     {"texto":"Configuracoes","acao":"config"}
   ]
 }
