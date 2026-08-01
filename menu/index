@@ -1,20 +1,8 @@
 {
-    "menu": [
-        {
-            "id": 1,
-            "nome": "um"
-        },
-        {
-            "id": 2,
-            "nome": "dois"
-        },
-        {
-            "id": 3,
-            "nome": "tres"
-        },
-        {
-            "id": 4,
-            "nome": "quatri"
-        }
-    ]
+  "menu":[
+    {"texto":"Dashboard","acao":"dashboard"},
+    {"texto":"Sensores","acao":"sensores"},
+    {"texto":"Reles","acao":"reles"},
+    {"texto":"Configuracoes","acao":"config"}
+  ]
 }
