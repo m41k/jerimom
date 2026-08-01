@@ -2,7 +2,7 @@
   "menu":[
     {"texto":"Capturar","acao":"capturar"},
     {"texto":"Batalhar","acao":"batalhar"},
-    {"texto":"Centro de Treinamento","acao":"CT"},
+    {"texto":"Centro de Treinamento","acao":"ct"},
     {"texto":"Interagir","acao":"reles"},
     {"texto":"Configuracoes","acao":"config"}
   ]
