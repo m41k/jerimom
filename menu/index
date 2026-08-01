@@ -1,0 +1,20 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "nome": "um"
+        },
+        {
+            "id": 2,
+            "nome": "dois"
+        },
+        {
+            "id": 3,
+            "nome": "tres"
+        },
+        {
+            "id": 4,
+            "nome": "quatri"
+        }
+    ]
+}
